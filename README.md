@@ -1,2 +1,2 @@
-# shopping_portal
-A web-based shopping portal
+# shoppingportal
+shoppingportalapp
